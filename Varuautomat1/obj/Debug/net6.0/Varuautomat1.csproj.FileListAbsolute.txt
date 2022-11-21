@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\bin\Debug\net6.0\Varuautomat1.exe
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\bin\Debug\net6.0\Varuautomat1.deps.json
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\bin\Debug\net6.0\Varuautomat1.runtimeconfig.json
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\bin\Debug\net6.0\Varuautomat1.dll
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\bin\Debug\net6.0\Varuautomat1.pdb
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\obj\Debug\net6.0\Varuautomat1.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\obj\Debug\net6.0\Varuautomat1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\obj\Debug\net6.0\Varuautomat1.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\obj\Debug\net6.0\Varuautomat1.AssemblyInfo.cs
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\obj\Debug\net6.0\Varuautomat1.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\obj\Debug\net6.0\Varuautomat1.dll
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\obj\Debug\net6.0\refint\Varuautomat1.dll
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\obj\Debug\net6.0\Varuautomat1.pdb
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\obj\Debug\net6.0\Varuautomat1.genruntimeconfig.cache
+C:\Users\ellio\source\repos\Varuautomat1\Varuautomat1\obj\Debug\net6.0\ref\Varuautomat1.dll
